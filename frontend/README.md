@@ -1,5 +1,5 @@
 
-## Website Stack TeCHNOLOHY 
+## Website Stack TECHNOLOHY 
 
 #### Front-end
 
@@ -10,6 +10,20 @@
 
 -  `Node.js with Express.js Framework`
 - As Database: `MySQL with Sequelize`
+
+#### to run frontend in localhost
+Open a `Stackoverflow-Clone` folder you created.
+ - Setup the Frontend code -
+
+
+
+     ```
+     cd Frontend
+
+     npm install
+     ```
+
+   - Run the client index `npm start`.
 
 
 ### To run  Docker images
@@ -24,9 +38,7 @@
   ```
 #### IMAGES
 
-<img src="/demo/images/1.png" width=340px /><img src="/demo/images/2.png" width=340px />
-<img src="/demo/images/3.png" width=340px /><img src="/demo/images/4.png" width=340px />
-<img src="/demo/images/5.png" width=340px /><img src="/demo/images/6.png" width=340px />
-<img src="/demo/images/7.png" width=340px /><img src="/demo/images/8.png" width=340px />
-<img src="/demo/images/9.png" width=340px /><img src="/demo/images/10.png" width=340px />
-<img src="/demo/images/11.png" width=340px /><img src="/demo/images/12.png" width=340px />
+<img src="/images/1.png" width=400px /><img src="/images/2.png" width=400px />
+<img src="/images/3.png" width=400px /><img src="/images/4.png" width=400px />
+
+
